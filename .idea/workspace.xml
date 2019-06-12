@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3e7bd5a-9422-49b8-a2ca-59d5a5538e25" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/GoDemo/src/demo/go_array.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,8 +66,8 @@
       <file leaf-file-name="go_array.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GoDemo/src/demo/go_array.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+            <state relative-caret-position="234">
+              <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -252,7 +251,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="565" y="0" width="976" height="838" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25303456" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,11 +258,11 @@
       <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5304102" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5304102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39886847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -282,7 +280,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="学习go语法" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习go语法" />
+    <MESSAGE value="go语言数组学习 申明数组，初始化数组。" />
+    <option name="LAST_COMMIT_MESSAGE" value="go语言数组学习 申明数组，初始化数组。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GoDemo/src/demo/learn.go">
@@ -351,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GoDemo/src/demo/go_array.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+        <state relative-caret-position="234">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
         </state>
       </provider>
     </entry>
