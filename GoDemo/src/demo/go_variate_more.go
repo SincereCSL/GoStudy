@@ -8,10 +8,10 @@ var (
 	b bool
 )
 
-var c, d int =1, 2
+var c, d int = 1, 2
 var e, f = 123, "hello go"
 
-func main()  {
+func main() {
 	g, h := 123, "hello"
-	println(a,b,c,e,f,g,h)
+	println(a, b, c, e, f, g, h)
 }

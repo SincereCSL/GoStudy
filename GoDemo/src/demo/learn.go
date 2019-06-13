@@ -1,9 +1,10 @@
 package main
+
 //导入包
 import "fmt"
 
 //常量定义
-const  NAME  ="job"
+const NAME = "job"
 
 //变量定义
 var mainName = "main name"

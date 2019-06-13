@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	//声明一个变量并初始化
 	var a = "go learn"
 	fmt.Println(a)
