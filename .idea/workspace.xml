@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f3e7bd5a-9422-49b8-a2ca-59d5a5538e25" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/basic-go/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/bool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/byte.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/number.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/consts/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/hello_go/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/hello_go/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/diff/diff.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/diff/diff_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/same/same.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/same/same1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic-go/syntax/variable/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GoStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GoStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_array.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoDemo/src/demo/go_array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_grammar.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoDemo/src/demo/go_grammar.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_variate.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoDemo/src/demo/go_variate.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_variate_more.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoDemo/src/demo/go_variate_more.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/learn.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoDemo/src/demo/learn.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoDemo/src/demo/test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/GoDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_array.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_grammar.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_variate.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_variate_more.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/learn.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geektime-basic-go/webook-fe/src/components/editor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/geektime-basic-go/webook-fe/src/components/editor.tsx" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,9 +110,12 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="E:\go" />
+  <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,11 +135,19 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="516" />
     <option name="width" value="1411" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="2V47NCW6x8GApMktCovN170ccM9" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -146,84 +185,115 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
-    <property name="GO_FMT" value="false" />
-    <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sincerecsl/source/code/GoStudy/basic-go&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic-go" />
+    </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build go_array.go">
-    <configuration name="go build go_array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build GoStudy/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStudy" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoDemo/src/demo/go_array.go" />
-      <directory value="$PROJECT_DIR$/" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/basic-go/syntax/basic_types/main.go" />
+      <method v="2" />
     </configuration>
-    <configuration name="go build go_grammar.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build boll.go byte.go main.go number.go string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStudy" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoDemo/src/demo/go_grammar.go" />
-      <directory value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/basic-go/syntax/basic_types/boll.go|$PROJECT_DIR$/basic-go/syntax/basic_types/byte.go|$PROJECT_DIR$/basic-go/syntax/basic_types/main.go|$PROJECT_DIR$/basic-go/syntax/basic_types/number.go|$PROJECT_DIR$/basic-go/syntax/basic_types/string.go" />
+      <method v="2" />
     </configuration>
-    <configuration name="go build go_variate.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build bool.go byte.go main.go number.go string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStudy" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoDemo/src/demo/go_variate.go" />
-      <directory value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/basic-go/syntax/basic_types/bool.go|$PROJECT_DIR$/basic-go/syntax/basic_types/byte.go|$PROJECT_DIR$/basic-go/syntax/basic_types/main.go|$PROJECT_DIR$/basic-go/syntax/basic_types/number.go|$PROJECT_DIR$/basic-go/syntax/basic_types/string.go" />
+      <method v="2" />
     </configuration>
-    <configuration name="go build go_variate_more.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build bool.go byte.go number.go string.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStudy" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoDemo/src/demo/go_variate_more.go" />
-      <directory value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/geektime-basic-go/syntax/basic_types/bool.go|$PROJECT_DIR$/geektime-basic-go/syntax/basic_types/byte.go|$PROJECT_DIR$/geektime-basic-go/syntax/basic_types/number.go|$PROJECT_DIR$/geektime-basic-go/syntax/basic_types/string.go" />
+      <method v="2" />
     </configuration>
-    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoStudy" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
+      <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/GoDemo/src/demo/test.go" />
-      <directory value="$PROJECT_DIR$/" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/basic-go/syntax/variable/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoStudy" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/basic-go/syntax/basic_types/main.go" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build go_grammar.go" />
-      <item itemvalue="Go Build.go build test.go" />
-      <item itemvalue="Go Build.go build go_variate.go" />
-      <item itemvalue="Go Build.go build go_variate_more.go" />
-      <item itemvalue="Go Build.go build go_array.go" />
+      <item itemvalue="Go Build.go build GoStudy/" />
+      <item itemvalue="Go Build.go build boll.go byte.go main.go number.go string.go" />
+      <item itemvalue="Go Build.go build bool.go byte.go main.go number.go string.go" />
+      <item itemvalue="Go Build.go build bool.go byte.go number.go string.go" />
+      <item itemvalue="Go Build.go build main.go (1)" />
+      <item itemvalue="Go Build.go build main.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build go_array.go" />
-        <item itemvalue="Go Build.go build go_variate_more.go" />
-        <item itemvalue="Go Build.go build go_variate.go" />
-        <item itemvalue="Go Build.go build test.go" />
-        <item itemvalue="Go Build.go build go_grammar.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build bool.go byte.go main.go number.go string.go" />
+        <item itemvalue="Go Build.go build bool.go byte.go number.go string.go" />
+        <item itemvalue="Go Build.go build boll.go byte.go main.go number.go string.go" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1694083457039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694083457039</updated>
+      <workItem from="1694083458465" duration="1705000" />
+      <workItem from="1696031895030" duration="1276000" />
+    </task>
+    <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -250,14 +320,21 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:tailwindcss" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:next" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:postcss" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="学习go语法" />
     <option name="LAST_COMMIT_MESSAGE" value="学习go语法" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GoDemo/src/demo/go_variate_more.go">
