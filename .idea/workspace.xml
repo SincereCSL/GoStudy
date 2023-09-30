@@ -4,46 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3e7bd5a-9422-49b8-a2ca-59d5a5538e25" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/basic-go/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/bool.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/byte.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/number.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/basic_types/string.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/consts/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/hello_go/hello.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/hello_go/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/diff/diff.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/diff/diff_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/same/same.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/package_demo/same/same1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-go/syntax/variable/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GoStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GoStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/GoDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_array.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_grammar.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_variate.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/go_variate_more.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/learn.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/src/demo/test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geektime-basic-go/webook-fe/src/components/editor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/geektime-basic-go/webook-fe/src/components/editor.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="f3e7bd5a-9422-49b8-a2ca-59d5a5538e25" name="Default" comment="Learning basic go syntax" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -112,6 +82,11 @@
   </component>
   <component name="GOROOT" url="file:///usr/local/opt/go/libexec" />
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="SincereCSL &lt;sincerecsl@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -190,27 +165,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/sincerecsl/source/code/GoStudy/basic-go&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/sincerecsl/source/code/GoStudy/basic-go",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "ts.external.directory.path": "/Applications/GoLand.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/basic-go" />
@@ -328,9 +304,22 @@
     <option featureType="dependencySupport" implementationName="javascript:npm:next" />
     <option featureType="dependencySupport" implementationName="javascript:npm:postcss" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="学习go语法" />
-    <option name="LAST_COMMIT_MESSAGE" value="学习go语法" />
+    <MESSAGE value="Learning" />
+    <MESSAGE value="Learning basic go syntax" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning basic go syntax" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
